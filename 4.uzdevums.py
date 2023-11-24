@@ -8,4 +8,4 @@ for skaitlis in range(1, ievaditais_skaitlis + 1):
     faktorials*= skaitlis
 
 # Izvada rezultātu
-print(f"Faktoriāls no {ievaditais_skaitlis} ir: {faktorials}")
+print(f"Faktoriāls no {ievaditais_skaitlis} ir:{faktorials}")
